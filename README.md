@@ -26,3 +26,4 @@
 ### Scanner
 - [flutter_barcode_reader](https://github.com/apptreesoftware/flutter_barcode_reader) - 
 A flutter plugin for scanning 2D barcodes and QR codes.
+- [Fast QR Reader View Plugin](https://github.com/facundomedica/fast_qr_reader_view) - A Flutter plugin to scan multiple type of codes.
