@@ -7,6 +7,7 @@
   - [Videos](#videos)
   - [Patterns](#patterns)
 - [Widgets](#widgets)
+- [Plugins](#plugins)
 
 ## Articles
 
@@ -20,3 +21,8 @@
 
 ## Widgets
 
+## Plugins
+
+### Scanner
+- [flutter_barcode_reader](https://github.com/apptreesoftware/flutter_barcode_reader) - 
+A flutter plugin for scanning 2D barcodes and QR codes.
