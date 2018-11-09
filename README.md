@@ -19,6 +19,10 @@
 
 - [Flutter Widget of the Week (Google Developers)](https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE) - 官方Youtube教學影片,介紹各種Widget使用
 
+### Layout
+   - [Updating the UI based on orientation](https://flutter.io/docs/cookbook/design/orientation) - 包覆OrientationBuilder取得orientation
+  - [How does Flutter handle orientation change](https://stackoverflow.com/questions/49663494/how-does-flutter-handle-orientation-change) - ``MediaQuery.of(context).orientation``取得orientation
+  
 ## Widgets
 
 ## Plugins
