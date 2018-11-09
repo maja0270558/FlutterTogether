@@ -6,6 +6,7 @@
 - [Articles](#articles)
   - [Videos](#videos)
   - [Patterns](#patterns)
+  - [Layout](#layout)
 - [Widgets](#widgets)
 - [Plugins](#plugins)
 
