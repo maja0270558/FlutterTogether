@@ -47,5 +47,8 @@ WebView效能不是很好，可以監聽到事件start loading, loading, finish 
 ### Shared preferences (數據儲存)
 - [Shared preferences](https://github.com/flutter/plugins/tree/master/packages/shared_preferences) - Wraps NSUserDefaults (on iOS) and SharedPreferences (on Android).
 
+### Toast
+- [FlutterToast](https://github.com/PonnamKarthik/FlutterToast)
+
 ## Examples
 - [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) - 使用各種架構實作 Todo List.
