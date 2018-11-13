@@ -36,5 +36,13 @@ A flutter plugin for scanning 2D barcodes and QR codes.不能調整 Camera, 因�
 - [Fast QR Reader View Plugin](https://github.com/facundomedica/fast_qr_reader_view) - A Flutter plugin to scan multiple type of codes. minimum Android sdk version to 21. iphone 6 上跑起來算順, 但是 Camera 畫面有點模糊.
 - [QR Mobile Vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/) - 使用 Google's Mobile Vision API, 可以自定義 Camera size. 在 iphone 6 上跑起來 Camera fps 不是很順, iphone 8 順暢.
 
+### WebView
+- [flutter_webview_plugin](https://github.com/fluttercommunity/flutter_webview_plugin) - 在Flutter可以內嵌Native Webview
+WebView效能不是很好，可以監聽到事件start loading, loading, finish loading，但無法從中截斷，兩個平台有些差異
+
+### Deeplink
+- [url_launcher](https://github.com/flutter/plugins/tree/master/packages/url_launcher) - 可以從Flutter依照Deeplink啟動App
+兩個平台使用上有些坑，Android的deep link常常是intent://gomaji://...，這個必須得過濾成gomaji://且不能大寫。iOS的canOpenUrl()總是回傳false
+
 ## Examples
 - [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) - 使用各種架構實作 Todo List.
