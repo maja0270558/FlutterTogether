@@ -44,5 +44,8 @@ WebView效能不是很好，可以監聽到事件start loading, loading, finish 
 - [url_launcher](https://github.com/flutter/plugins/tree/master/packages/url_launcher) - 可以從Flutter依照Deeplink啟動App
 兩個平台使用上有些坑，Android的deep link常常是intent://gomaji://...，這個必須得過濾成gomaji://且不能大寫。iOS的canOpenUrl()總是回傳false
 
+### Shared preferences (數據儲存)
+- [Shared preferences](https://github.com/flutter/plugins/tree/master/packages/shared_preferences) - Wraps NSUserDefaults (on iOS) and SharedPreferences (on Android).
+
 ## Examples
 - [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) - 使用各種架構實作 Todo List.
