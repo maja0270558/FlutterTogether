@@ -10,6 +10,7 @@
 - [Widgets](#widgets)
 - [Plugins](#plugins)
 - [Examples](#examples)
+- [IDEs](#ides)
 
 ## Articles
 
@@ -53,3 +54,7 @@ WebView效能不是很好，可以監聽到事件start loading, loading, finish 
 
 ## Examples
 - [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) - 使用各種架構實作 Todo List.
+
+## IDEs
+- [Android Studio / IntelliJ](https://flutter.io/docs/development/tools/ide/android-studio)
+- [Visual Studio Code](https://flutter.io/docs/development/tools/ide/vs-code)
