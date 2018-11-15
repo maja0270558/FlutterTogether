@@ -42,6 +42,9 @@ A flutter plugin for scanning 2D barcodes and QR codes.不能調整 Camera, 因�
 - [flutter_webview_plugin](https://github.com/fluttercommunity/flutter_webview_plugin) - 在Flutter可以內嵌Native Webview
 WebView效能不是很好，可以監聽到事件start loading, loading, finish loading，但無法從中截斷，兩個平台有些差異
 
+- [parse HTML tag into widget](https://gist.github.com/Katarn/da6c45795247c4e882e337317a1050bd)
+- [FlutterHTMLView](https://proandroiddev.com/flutter-render-html-2a51f73f9db)
+
 ### Deeplink
 - [url_launcher](https://github.com/flutter/plugins/tree/master/packages/url_launcher) - 可以從Flutter依照Deeplink啟動App
 兩個平台使用上有些坑，Android的deep link常常是intent://gomaji://...，這個必須得過濾成gomaji://且不能大寫。iOS的canOpenUrl()總是回傳false
