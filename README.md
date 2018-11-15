@@ -41,6 +41,7 @@ A flutter plugin for scanning 2D barcodes and QR codes.不能調整 Camera, 因�
 ### WebView
 - [flutter_webview_plugin](https://github.com/fluttercommunity/flutter_webview_plugin) - 在Flutter可以內嵌Native Webview
 WebView效能不是很好，可以監聽到事件start loading, loading, finish loading，但無法從中截斷，兩個平台有些差異
+- [flutter_inappbrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) - 看起來非常完整
 
 ### HTML Viewer
 - [parse HTML tag into widget](https://gist.github.com/Katarn/da6c45795247c4e882e337317a1050bd)
