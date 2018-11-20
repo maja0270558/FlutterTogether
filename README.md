@@ -60,7 +60,7 @@ WebView效能不是很好，可以監聽到事件start loading, loading, finish 
 - [FlutterToast](https://github.com/PonnamKarthik/FlutterToast)
 
 ### Route
-- [navigate](https://github.com/ravipatel147/navigate) -A new Flutter package for Byutifull navigation.
+- [navigate](https://github.com/ravipatel147/navigate) - A new Flutter package for Byutifull navigation.
 
 ## Examples
 - [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) - 使用各種架構實作 Todo List.
