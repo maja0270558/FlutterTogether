@@ -29,6 +29,7 @@
 ## Widgets
   - [數字鍵盤](https://gist.github.com/WarrenLin/c5ef2e73ef5265505e427926aaa4e8bc#file-widget_abacus-dart) - 須自行添加或更換 'assets/backspace.png' 圖檔.
   - [帳密登入](https://gist.github.com/WarrenLin/785a98fdad3b15a9567b0df0d00a63ee) - Add dependencies: shared_preferences: ^0.4.3 fluttertoast: ^2.1.0
+  - [Inherited Widgets](https://www.youtube.com/watch?v=Zbm3hjPjQMk) - 方便存取到父類別attach的變數、物件等等
 
 ## Plugins
 
