@@ -18,6 +18,8 @@
 
 - [MVVM in Flutter using Dart Streams](https://quickbirdstudios.com/blog/mvvm-in-flutter/)
 - [MVP 在 flutter 中的應用](https://www.jianshu.com/p/7b2d83f8109f)
+- [MVP Architecture](https://medium.com/@develodroid/flutter-iv-mvp-architecture-e4a979d9f47e)
+
 ### Videos
 
 - [Flutter Widget of the Week (Google Developers)](https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE) - 官方 Youtube 教學影片, 介紹各種 Widget 使用
