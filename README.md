@@ -59,6 +59,9 @@ WebView效能不是很好，可以監聽到事件start loading, loading, finish 
 ### Shared preferences (數據儲存)
 - [Shared preferences](https://github.com/flutter/plugins/tree/master/packages/shared_preferences) - Wraps NSUserDefaults (on iOS) and SharedPreferences (on Android).
 
+### sqflite (SQLite plugin)
+- [sqflite](https://github.com/tekartik/sqflite) - SQLite plugin for Flutter. Supports both iOS and Android.
+
 ### Toast
 - [FlutterToast](https://github.com/PonnamKarthik/FlutterToast)
 
