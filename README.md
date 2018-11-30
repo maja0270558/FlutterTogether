@@ -51,6 +51,7 @@ WebView效能不是很好，可以監聽到事件start loading, loading, finish 
 - [FlutterHTMLView](https://proandroiddev.com/flutter-render-html-2a51f73f9db)
 - [flutter_html](https://github.com/Sub6Resources/flutter_html) - 目前看來支援度最高
 - [html_widget](https://github.com/google/flutter.widgets/tree/master/lib/src/html_widget) - 這是Google自己出的
+- [html text view](https://pub.dartlang.org/packages/flutter_html_textview) - 用起來可以支援 style video image 還不錯
 
 ### Deeplink
 - [url_launcher](https://github.com/flutter/plugins/tree/master/packages/url_launcher) - 可以從Flutter依照Deeplink啟動App
